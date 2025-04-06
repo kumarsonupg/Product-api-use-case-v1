@@ -26,6 +26,5 @@ A RESTful Spring Boot application for managing products with full CRUD support, 
 ### Prerequisites
 
 - Java 17+
-- Docker
 - Gradle (optional, wrapper is included)
 
